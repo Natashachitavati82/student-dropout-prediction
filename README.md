@@ -2,7 +2,7 @@
 
 Predicts whether a student will drop out, stay enrolled, or graduate.
 
-- *Data:* Kaggle "Predict Students' Dropout and Academic Success" (4,424 students),downloaded via Kaggle; original source is the UCI Machine Learning Reposition
+- *Data:* Kaggle "Predict Students' Dropout and Academic Success" (4,424 students), downloaded via Kaggle; original source is the UCI Machine Learning Repository
 - *Model:* Random Forest (CV macro F1 0.72, dropout recall 0.74)
 - *App:* Streamlit risk predictor
 
