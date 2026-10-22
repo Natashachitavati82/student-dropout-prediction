@@ -15,3 +15,8 @@ Predicts whether a student will drop out, stay enrolled, or graduate.
 - main.py: data prep, feature engineering, modelling, saving
 - app.py: Streamlit app
 - *.pkl: saved model and preprocessing files
+## Data source
+Realinho, V., Vieira Martins, M., Machado, J., & Baptista, L. (2021).
+Predict Students' Dropout and Academic Success [Dataset].
+UCI Machine Learning Repository. https://archive.ics.uci.edu/dataset/697
+Licensed under CC BY 4.0. No changes were made to the original data.
